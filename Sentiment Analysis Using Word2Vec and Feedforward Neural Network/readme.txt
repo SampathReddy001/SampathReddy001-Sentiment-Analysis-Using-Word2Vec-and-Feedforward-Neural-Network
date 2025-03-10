@@ -34,9 +34,4 @@ Output:
 - Training Curves: Plots showing training and validation accuracy/loss over epochs.
 
 Authors:
-- Manasa Kuchavaram
-- Shivani Jilukara
-- Thirumala Devi Kola
 - Sampath Reddy Kothakapu
-- Sarika Gurram
-- Gowtham Krishna Sai Malina
